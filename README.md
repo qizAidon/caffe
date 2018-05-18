@@ -21,7 +21,7 @@
 	* ./data/labelmap_indoor.prototxt
 	* ./scripts/detect_test.py
 	* ./scripts/matching_test.py
-	* ./python/selective_search_ijcv_with_python
+	* ./python/[selective_search_ijcv_with_python](https://github.com/sergeyk/selective_search_ijcv_with_python)
 
 ### Results
 ![](https://github.com/qizAidon/text_detection/blob/master/res.png)
