@@ -24,5 +24,5 @@
 	* ./python/selective_search_ijcv_with_python
 
 ### Results
-![]()
+![](https://github.com/qizAidon/text_detection/blob/master/res.png)
 
